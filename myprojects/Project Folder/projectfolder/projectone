@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <head>  
+    </head>
+  
+    <body>
+    <header background-color: linear-gradient(110deg, yellow 40%, pink 40%);>
+        
+
+        <h1>EJ Johnson</h1>
+        <h3>Launching soon...</h3>
+        <p>18th June, 2018</p>
+     
+    <section></section>
+    <h1 >EJ Johnson</h1>
+    <h3>MOTIVATION:
+        <br><br>
+        <i>
+            I want to learn how to code because I enjoy it and would love to do it full time for work.
+        </i>
+    </h3>
+    <p>10 October, 2021</p>
+</header>
+    </body>
+</html>
