@@ -1,0 +1,43 @@
+
+   
+div {
+    background-color: red;
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    margin-left: 10px;
+    background-clip: content-box;
+
+}
+
+#first{
+    padding: 10px;
+    margin: 0;
+} 
+
+#second{
+    padding: 25px 50px 25px 50px;
+    margin: 40px 55px 40px 0;
+
+}
+
+#third{ 
+    padding: 20px 25px 50px 25px;
+    margin: 6px 
+}
+
+#fourth{
+    padding: 10px 100px 30px; 
+    margin: 120px 0px; 
+
+}
+
+#button{
+background-color: steelblue;
+text-decoration: none;
+color rgb{255, 255, 255}
+border-radius: 
+
+}
+</body>
+</html>
