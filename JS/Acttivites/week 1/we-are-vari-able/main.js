@@ -2,6 +2,28 @@
  * YOUR CODE BELOW *
  ******************/
 
+var myFirstName = "EJ";
+
+var myLastName = "Johnson";
+
+var myFavoriteCeleb = "Kevin Hart"
+
+var mySentence = "My name is EJ Johnson" + myFirstName + " " + myLastName + "and I watch " + myFavoriteCeleb + "."
+
+var myLuckyNum = 4;
+var myAge = 28;
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*********************************************************************************************************************
 
