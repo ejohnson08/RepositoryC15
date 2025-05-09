@@ -12,26 +12,21 @@
 // document.body.innerHTML +=	Append directly to page	            Simple page output
 
 ////// a built-in function ***console.log()***. We can pass an argument as input data, and the function displays the output
-console.log("Hello World");
+
 ////// We passed 'Hello, World' as input data or argument in the console.log() function 
 // If we are printing text or string using console.log(), the text has to be inside the single quotes, double quotes, or a backticks
-console.log('Hello World');
-console.log("Hello world");
-console.log(`Hello`);
+
 
 ////// The console.log() function can take multiple parameters separated by commas. The syntax looks like as follows:console.log(param1, param2, param3)
-console.log('Hello', 'world', "!" )
-console.log('Cohort', 15);
-console.log('Welcome', 'to', 'Cohort, 15')
 
 
 ///// For number data types, in addition to the text, we can also do mathematical calculations using JavaScript
-console.log(3 + 5); // Addition
-console.log(8 - 5); // Subtraction
-console.log( 4 * 4); // Multiplication
-console.log(8 / 2); // Division
-console.log(17 % 3); // Modulus - finding remainder
-console.log(3 ** 2); // Exponentiation 3 ** 2 == 3 * 3
+console.log() // Addition
+console.log() // Subtraction
+console.log() // Multiplication
+console.log() // Division
+console.log() // Modulus - finding remainder
+console.log() // Exponentiation 3 ** 2 == 3 * 3
 
 
 
@@ -47,6 +42,7 @@ console.log(3 ** 2); // Exponentiation 3 ** 2 == 3 * 3
 // Programming languages have syntax.
 
 // JavaScript is a programming language and like other programming languages it has its own syntax. If we do not write a syntax that JavaScript understands, it will raise different types of errors. 
+
 
 
 ///// Adding JavaScript to a Web Page//////
@@ -70,10 +66,6 @@ console.log(3 ** 2); // Exponentiation 3 ** 2 == 3 * 3
 
 // /// Strings ///
 // A collection of one or more characters between two single quotes, double quotes, or backticks. 
-// "a"
-// "helper"
-// "Hello where are we going?"
-// "I love javascript!" 
 
 // /// Booleans ///
 // A boolean value is either True or False. Any comparisons returns a boolean value, which is either true or false.
@@ -83,13 +75,9 @@ console.log(3 ** 2); // Exponentiation 3 ** 2 == 3 * 3
 // /// Undefined ///
 // In JavaScript, if we don't assign a value to a variable, the value is undefined. In addition to that, if a function is not returning anything, it returns undefined.
 
-let myfirstName
-console.log(firstName);
-
 // /// Null /////
 // Null in JavaScript means an empty value.
-let myValue = null;
-console.log(myvalue);
+
 
 
 
@@ -103,10 +91,6 @@ console.log(myvalue);
 ///// Checking Data Types /////
     // To check the data type of a certain variable, we use the typeof operator.
 
-console.log(typeof "themepark");
-console.log(typeof "45");
-console.log(typeof true);
-console.log(typeof undefined);
 
 
 // non-primative data types
